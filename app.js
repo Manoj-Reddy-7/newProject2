@@ -4,4 +4,4 @@
 
 /// merge featuer ----<main command  
 
-// testing merge conflit -nmain
+// testing merge conflit -feature
