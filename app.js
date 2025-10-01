@@ -5,3 +5,5 @@
 /// merge featuer ----<main command  
 
 //  mergin dome 
+// testing merge conflit -feature
+// add new feature form  
